@@ -1,0 +1,10 @@
+# Assets
+**/assets
+
+# Files
+*.json
+
+# Remix related
+/.cache
+/build
+/public/build
